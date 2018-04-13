@@ -19,7 +19,7 @@ In a nutshell, it's run like that:
 Jadep respects existing BUILD files, but will create new ones when needed. We can
 therefore guide Jadep with a pre-existing structure.
 
-The result can be found in <https://github.com/cgrushko/google-java-format/tree/bazel>.
+The result can be found in <https://github.com/google/google-java-format/pull/273>.
 
 In this migration, I took these steps:
 
