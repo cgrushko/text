@@ -31,6 +31,8 @@ In this migration, I took these steps:
 
 _Note:_ I didn't migrate the Eclipse and IntelliJ sub-projects.
 
+[![demo](https://asciinema.org/a/fQQNXgUwXUohnLeqmeoL2Llg7.png)](https://asciinema.org/a/fQQNXgUwXUohnLeqmeoL2Llg7?autoplay=1)
+
 ## Create a Bazel repository
 
 Bazel uses a file named WORKSPACE to find the root of its world.
