@@ -146,6 +146,8 @@ genrule(
 )
 ```
 
+**EDIT:** @cushon mentions a better, cross-platform way is to use [ctx.actions.expand_template()](https://docs.bazel.build/versions/master/skylark/lib/actions.html#expand_template)
+
 We add it to the list of `srcs` that the rule in the same package consumes.
 
 The project's `Main.java` file, which contains the `main()` method, is actually
