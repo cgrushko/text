@@ -1,6 +1,6 @@
 # Migrating google-java-format from Maven to Bazel using Jadep
 
-[Jadep](https://github.com/bazelbuild/tools_jvm_autodeps/tree/master/jadep) is a
+[Jadep](https://github.com/bazelbuild/tools_jvm_autodeps) is a
 tool to incrementally update Bazel BUILD files based on what Java files need, and
 is generally intended to be used when a project is already built using Bazel, but
 it can also be used to bootstrap a project.
